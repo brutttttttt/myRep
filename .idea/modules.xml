@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webinar-all/webinar-all.iml" filepath="$PROJECT_DIR$/webinar-all/webinar-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webinar-config/webinar-config.iml" filepath="$PROJECT_DIR$/webinar-config/webinar-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webinar-content/webinar-content.iml" filepath="$PROJECT_DIR$/webinar-content/webinar-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webinar-services/webinar-services.iml" filepath="$PROJECT_DIR$/webinar-services/webinar-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webinar-taglib/webinar-taglib.iml" filepath="$PROJECT_DIR$/webinar-taglib/webinar-taglib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webinar-view/webinar-view.iml" filepath="$PROJECT_DIR$/webinar-view/webinar-view.iml" />
+    </modules>
+  </component>
+</project>
+

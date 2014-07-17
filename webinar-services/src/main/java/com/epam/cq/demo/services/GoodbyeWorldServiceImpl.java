@@ -16,6 +16,8 @@ import org.osgi.framework.Constants;
 })
 public class GoodbyeWorldServiceImpl implements GoodbyeWorldService {
 
+
+
     @Override
     public String getMessage(String name) {
         return String.format("Goodbye %s!", name);
